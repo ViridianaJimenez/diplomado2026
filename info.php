@@ -6,11 +6,6 @@
     <title>Info</title>
 </head>
 <body>
-    <div>
-        <p>Información</p>
-        <div class="info">
-            <p>Esta es la información adicional</p>
-        </div>
-    </div>
+    
 </body>
 </html>
