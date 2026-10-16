@@ -7,7 +7,8 @@
 </head>
 <body>
 	<div>
-		<p>mi primer repositorio con gir</p>
+		<p>mi primer repositorio con git 2026</p>
+		<p>Pagina inicial de mi sitio web</p>
 	</div>
 </body>
 </html>
