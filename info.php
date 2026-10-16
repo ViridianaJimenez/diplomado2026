@@ -6,6 +6,6 @@
     <title>Info</title>
 </head>
 <body>
-    
+    <p>prueba de un nuevo reset</p>
 </body>
 </html>
