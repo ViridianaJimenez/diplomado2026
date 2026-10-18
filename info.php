@@ -6,6 +6,29 @@
     <title>Info</title>
 </head>
 <body>
-    <p>prueba de un nuevo reset</p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptas quae perspiciatis ipsum voluptatibus ratione, odio possimus sed, consequatur ducimus quasi fugiat unde? Ducimus non, consectetur sed enim odit quo.
+        prueba de un nuevo reset
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptas quae perspiciatis ipsum voluptatibus ratione, odio possimus sed, consequatur ducimus quasi fugiat unde? Ducimus non, consectetur sed enim odit quo.
+        prueba de un nuevo reset
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptas quae perspiciatis ipsum voluptatibus ratione, odio possimus sed, consequatur ducimus quasi fugiat unde? Ducimus non, consectetur sed enim odit quo.
+        prueba de un nuevo reset
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptas quae perspiciatis ipsum voluptatibus ratione, odio possimus sed, consequatur ducimus quasi fugiat unde? Ducimus non, consectetur sed enim odit quo.
+        prueba de un nuevo reset
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptas quae perspiciatis ipsum voluptatibus ratione, odio possimus sed, consequatur ducimus quasi fugiat unde? Ducimus non, consectetur sed enim odit quo.
+        prueba de un nuevo reset
+    </p>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptas quae perspiciatis ipsum voluptatibus ratione, odio possimus sed, consequatur ducimus quasi fugiat unde? Ducimus non, consectetur sed enim odit quo.
+        prueba de un nuevo reset
+    </p>
 </body>
 </html>
